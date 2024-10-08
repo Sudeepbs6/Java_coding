@@ -11,11 +11,11 @@ class Calculator
 public class Heap_stack 
 {
     public static void main(String[] args) {
-        int data =10;
+        // int data =10;
 
         Calculator cal= new Calculator();
         Calculator cal1= new Calculator();
-        int r1 = cal.add(3, 5);
+        // int r1 = cal.add(3, 5);
         cal.num = 8;
         System.out.println(cal.num);
         System.out.println(cal1.num);
