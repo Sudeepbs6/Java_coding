@@ -1,0 +1,52 @@
+Java
+
+why it is famous - Due to its features, many are prefered, 
+
+Concepts Covered(so far)
+{
+    Variables;
+    Data types;
+    Literals;
+    Type conversion;
+    Arthmetic operators;
+    Relational operators;
+    Logical operators
+    {
+        if-else, else if;
+    }
+    switch statement;
+    Loops
+    {
+        for()
+        Enhanced for()
+        while()
+        do-while()
+    }
+    Class;
+    objects;
+    Methods;
+    Method_overloading;
+    Stack&Heap;
+    Arrays
+    {
+        array;
+        multi-dimentional array;
+        jagged;
+        3D;
+    }
+    String
+    {
+        Mutable String;
+        Immutable String;
+        StringBuffer;
+        String Builder;
+    }
+    static{
+        static variable;
+        static Method;
+        static block;
+    }
+
+
+    
+}
